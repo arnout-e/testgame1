@@ -12,7 +12,7 @@ Open `index.html` directly in a browser to run the game. No build or test comman
 
 ## Git Workflow
 
-All changes are committed locally and pushed to `origin/main` on GitHub (arnout-e/testgame1).
+After every wijziging: commit met een duidelijke, beschrijvende commitboodschap en push altijd naar `origin/main` op GitHub (arnout-e/testgame1). Sla geen push over.
 
 ## Language
 
